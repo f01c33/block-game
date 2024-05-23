@@ -12,6 +12,7 @@ block-game
 ```
 
 ```space``` makes the block go up
+
 ```esc``` quits the game
 
 ### demo
